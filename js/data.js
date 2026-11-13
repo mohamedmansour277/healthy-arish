@@ -11,7 +11,7 @@ const STORE_CONFIG = {
 
 const PRODUCT_ILLUSTRATIONS = {
   milk: `
-    <svg viewBox="0 0 90 100" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <svg width="82" height="90" viewBox="0 0 90 100" fill="none" xmlns="http://www.w3.org/2000/svg">
       <rect x="33" y="6" width="24" height="8" rx="3" fill="#093BA8"/>
       <path d="M35 14H55L62 28V86C62 90.4 58.4 94 54 94H36C31.6 94 28 90.4 28 86V28L35 14Z" fill="#FFFFFF" stroke="#D7E2F8" stroke-width="2"/>
       <rect x="29" y="42" width="32" height="36" rx="4" fill="#0D4EDB"/>
@@ -21,7 +21,7 @@ const PRODUCT_ILLUSTRATIONS = {
     </svg>
   `,
   drink: `
-    <svg viewBox="0 0 90 100" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <svg width="82" height="90" viewBox="0 0 90 100" fill="none" xmlns="http://www.w3.org/2000/svg">
       <rect x="35" y="8" width="20" height="7" rx="2.5" fill="#0D4EDB"/>
       <path d="M37 15H53L58 30V86C58 90 54.9 93 51 93H39C35.1 93 32 90 32 86V30L37 15Z" fill="#F8FAFC" stroke="#CBD5E1" stroke-width="2"/>
       <rect x="33" y="40" width="24" height="44" rx="3" fill="#FFFFFF"/>
@@ -32,7 +32,7 @@ const PRODUCT_ILLUSTRATIONS = {
     </svg>
   `,
   yogurt: `
-    <svg viewBox="0 0 90 100" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <svg width="82" height="90" viewBox="0 0 90 100" fill="none" xmlns="http://www.w3.org/2000/svg">
       <rect x="20" y="18" width="50" height="8" rx="4" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="2"/>
       <path d="M24 26H66L61 86C60.6 90 57.3 93 53.3 93H36.7C32.7 93 29.4 90 29 86L24 26Z" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="2"/>
       <path d="M26 36H64L61 76H29L26 36Z" fill="#0D4EDB"/>
@@ -42,7 +42,7 @@ const PRODUCT_ILLUSTRATIONS = {
     </svg>
   `,
   cheese: `
-    <svg viewBox="0 0 100 90" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <svg width="88" height="82" viewBox="0 0 100 90" fill="none" xmlns="http://www.w3.org/2000/svg">
       <path d="M16 42L62 20L84 36V72L38 82L16 68V42Z" fill="#F4C44E"/>
       <path d="M16 42L62 20L84 36L38 52L16 42Z" fill="#FCE08B"/>
       <path d="M38 52L84 36V72L38 82V52Z" fill="#E5AF32"/>
